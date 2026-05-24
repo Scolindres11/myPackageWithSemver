@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.2 (2026-05-24)
+
+### Bug Fixes
+
+- Update workflow to use setup-python
+  ([`f4b163c`](https://github.com/Scolindres11/myPackageWithSemver/commit/f4b163c070cbf2909d2b8fa8a1637d6d4e81eeb6))
+
+
 ## v1.0.1 (2026-05-24)
 
 ### Bug Fixes
