@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-24)
+
+### Bug Fixes
+
+- Add git config to workflow
+  ([`78ccf3c`](https://github.com/Scolindres11/myPackageWithSemver/commit/78ccf3c98d6d1263cbd22c84b8abeeb00c21e682))
+
+
 ## v2.0.0 (2026-05-24)
 
 ### Features
