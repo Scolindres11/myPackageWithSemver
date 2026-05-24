@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.1.0 (2026-05-24)
+
+### Features
+
+- Add new feature
+  ([`23305ea`](https://github.com/Scolindres11/myPackageWithSemver/commit/23305eaeb0e739c3c0449402078e7d60c96ef3fb))
+
+
 ## v1.0.2 (2026-05-24)
 
 ### Bug Fixes
