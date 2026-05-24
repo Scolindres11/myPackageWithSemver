@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-24)
+
+### Features
+
+- Breaking change update
+  ([`ab30fe0`](https://github.com/Scolindres11/myPackageWithSemver/commit/ab30fe068cabe91881212fa275182da725c15f82))
+
+
 ## v1.1.0 (2026-05-24)
 
 ### Features
