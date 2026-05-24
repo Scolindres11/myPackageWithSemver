@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.2 (2026-05-24)
+
+### Bug Fixes
+
+- Final patch update
+  ([`1d2aecc`](https://github.com/Scolindres11/myPackageWithSemver/commit/1d2aecce5ea10dff47aff7d225ed76163f34fcc6))
+
+
 ## v2.0.1 (2026-05-24)
 
 ### Bug Fixes
